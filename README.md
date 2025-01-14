@@ -1,4 +1,5 @@
-Visual Studio .Net Core 7.0 Web API with Entity Framework Core including SQL project.
+
+# Visual Studio .Net Core 7.0 Web API with Entity Framework Core including SQL project.
 
 Add the following NuGet packages to the solution:
 
