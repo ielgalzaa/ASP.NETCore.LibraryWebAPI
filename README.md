@@ -1,6 +1,8 @@
 
 # Visual Studio .Net Core 7.0 Web API with Entity Framework Core including SQL project.
 
+"Library example" management Web API example built in .Net Core 7.0 and Entity Framework Core including SQL project.
+
 Add the following NuGet packages to the solution:
 
 	Microsoft.EntityFrameworkCore.SQLServer
