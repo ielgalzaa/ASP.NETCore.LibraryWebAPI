@@ -1,5 +1,5 @@
 
-# Visual Studio .Net Core 7.0 Web API with Entity Framework Core including SQL project.
+# Visual Studio .Net Core 7.0 RESTful Web API with Entity Framework Core including SQL project.
 
 "Library example" management Web API example built in .Net Core 7.0 and Entity Framework Core including SQL project.
 
